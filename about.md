@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 关于我
+permalink: /about/me
 ---
+前端攻城狮一枚，现就职于深圳某金融公司。
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+喜欢一切有趣的事物。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+努力做到专注前端，熟悉后端。
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
